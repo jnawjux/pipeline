@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Large data file
+hn_stories_2014.json
+
+# Mac Crap
+.DS_Store
